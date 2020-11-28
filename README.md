@@ -1,6 +1,6 @@
 # テーブル設計
 
-![ProtoSpaceのER図](/Users/redrabbit/Desktop/projects/protospace-30932/er.png)
+![ProtoSpaceのER図](https://gyazo.com/ec2f7432d8c970a1ab359655e0a958d8)
 
 ## users　テーブル
 
